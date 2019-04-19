@@ -6,6 +6,9 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Interests](interests.md)   [Research](research.md)   [CV](cv.md)
 
+| [Interests](interests.md)       | [Research](research.md)         | [CV](cv.md) |
+|:-------------|:------------------|:------|
+
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
