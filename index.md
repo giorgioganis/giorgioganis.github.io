@@ -2,7 +2,7 @@
 layout: default
 ---
 
-| **[Interests]**(interests.md)       | **[Research]**(research.md)         | **[CV]**(cv.md) |
+| [**Interests**](interests.md)       | [Research](research.md)         | [CV](cv.md) |
 
 There should be whitespace between paragraphs.
 
