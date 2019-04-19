@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Interests](./interests.md).
+[Interests](./interests.html).
 
 There should be whitespace between paragraphs.
 
